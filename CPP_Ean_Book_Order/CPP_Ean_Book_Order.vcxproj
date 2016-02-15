@@ -115,9 +115,9 @@
     <ClInclude Include="Order.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="a4main.cpp" />
     <ClCompile Include="EAN.cpp" />
     <ClCompile Include="GS1Prefixcpp.cpp" />
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="Order.cpp" />
   </ItemGroup>
   <ItemGroup>

@@ -74,7 +74,7 @@ void EAN::toStr(char * str) const {
 	//	fills the address with the object's EAN
 	//	assumes that the caller has allocated enough space to hold a 13-character string
 	//strcpy(str, eanCode);
-	strcpy_s(str, sizeof str, eanCode);
+	strcpy_s(str, 14, eanCode);
 	str[13] = '\0';
 }
 
