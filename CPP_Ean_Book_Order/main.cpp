@@ -1,9 +1,9 @@
-// Bookstore Order Processor
-// OOP244.141 - Assignment 4
-// a4main.cpp
-// Version 1.0
-// Chris Szalwinski
-// Nov 16 2013
+//	Bookstore Order Processor
+//	OOP244.141 - Assignment 4
+//	main.cpp
+//	Version 1.0
+//	Chris Szalwinski
+//	Nov 16 2013
 
 //	This file was provided by the instructor
 //	to check if our codes worked properly or not
